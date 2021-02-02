@@ -1,3 +1,7 @@
+# self
+cat_vs_dog_weights.*
+checkpoint
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
